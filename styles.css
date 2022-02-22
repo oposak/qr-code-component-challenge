@@ -20,7 +20,7 @@ body {
 .container {
   background-color: white;
   height: 38rem;
-  width: 24rem; 
+  width: 25rem; 
   display: flex;
   flex-direction: column;
   border-radius: 25px;
