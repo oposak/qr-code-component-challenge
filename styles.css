@@ -59,3 +59,17 @@ footer {
   bottom: 0;
   padding: 1rem 0;
 }
+
+@media (max-widht: 768px) {
+  .container {
+    width: 80%;
+  }
+
+  .container2 img {
+    width: 80%;
+  }
+
+  .container3 {
+    width: 80%;
+  }
+}
