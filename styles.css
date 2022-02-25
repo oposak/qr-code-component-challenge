@@ -80,12 +80,13 @@ footer {
   }
 
   .container3 h2 {
-    width: 110%;
+    width: 112%;
   }
 
   .container3 p {
-    width: 110%;
+    width: 112%;
     font-size: 1rem;
+    padding-bottom: 1rem;
   }
 
   .container2 {
